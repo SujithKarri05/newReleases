@@ -11,7 +11,8 @@
    "time":"7:00",
    "byo": true,
    "organizer":"American Western Film Society",
-   "poster":"/west.webp"
+   "poster":"/west.webp",
+    "Category": "new-release"
   },
   {
    "id": 5,
@@ -24,7 +25,8 @@
    "time": "8:30",
    "byo": false,
    "organizer":"Batman",
-   "poster":"/batty.jpg"
+   "poster":"/batty.jpg",
+    "Category": "new-release"
   },
   {
    "id": 6,
@@ -37,7 +39,8 @@
    "time":"6:45",
    "byo": false,
    "organizer":"Chocolate Lovers Club",
-   "poster":"/wonky.jpg"
+   "poster":"/wonky.jpg",
+    "Category": "new-release"
   }
 ]
 }
