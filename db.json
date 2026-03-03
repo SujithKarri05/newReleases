@@ -2,7 +2,7 @@
   "events": [
   {
     "id": 4,
-   "category":"Drama",
+   "genre":"Drama",
    "title":"Once upon a time in the West",
    "description":
      "A mysterious stranger with a harmonica joins forces with a notorious desperado to protect a beautiful widow from a ruthless assassin working for the railroad.",
@@ -12,11 +12,11 @@
    "byo": true,
    "organizer":"American Western Film Society",
    "poster":"/west.webp",
-    "Category": "new-release"
+    "category": "new-release"
   },
   {
    "id": 5,
-   "category":"Action",
+   "genre":"Action",
    "title": "Batman and Robin",
    "description":
      "Batman and Robin must stop Mr. Freeze and Poison Ivy from freezing Gotham City and enslaving its citizens.",
@@ -26,11 +26,11 @@
    "byo": false,
    "organizer":"Batman",
    "poster":"/batty.jpg",
-    "Category": "new-release"
+    "category": "new-release"
   },
   {
    "id": 6,
-   "category":"Family",
+   "genre":"Family",
    "title":"Willy Wonka and the Chocolate Factory",
    "description":
      "A poor boy wins a golden ticket to visit Willy Wonka's mysterious chocolate factory.",
@@ -40,7 +40,7 @@
    "byo": false,
    "organizer":"Chocolate Lovers Club",
    "poster":"/wonky.jpg",
-    "Category": "new-release"
+    "category": "new-release"
   }
 ]
 }
