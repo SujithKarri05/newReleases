@@ -41,6 +41,20 @@
    "organizer":"Chocolate Lovers Club",
    "poster":"/wonky.jpg",
     "category": "new-release"
-  }
+  },
+    {
+    "id": 10,
+   "genre":"Action",
+   "title":"Seven Samurai",
+   "description":
+     "Seven masterless samurai who band together to defend a poor village from ruthless bandits",
+  "location":"Hoyts Cinema, Melbourne",
+   "date":"February 15, 2024",
+   "time":"7:00",
+   "byo": true,
+   "organizer":"Secret Samurai Society",
+   "poster":"/7samurai.jpeg",
+    "category": "new-release"
+  },
 ]
 }
